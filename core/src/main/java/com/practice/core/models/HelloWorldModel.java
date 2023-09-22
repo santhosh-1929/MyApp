@@ -33,6 +33,7 @@ import com.day.cq.wcm.api.PageManager;
 
 import java.util.Optional;
 
+// Basic Hello world component
 @Model(adaptables = Resource.class)
 public class HelloWorldModel {
 
